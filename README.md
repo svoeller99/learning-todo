@@ -7,4 +7,5 @@
 * chai
 * babel
 * reactjs
+* jest
 * nightwatchjs
